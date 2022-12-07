@@ -8,6 +8,8 @@ Please test in your environments before rolling out for production.
 
 Tested with Powershell v4
 
+Modified by Toni Ojala for Education environment use
+
 #>
 
 taskkill /IM chrome.exe /F
